@@ -5,3 +5,7 @@ The Australia wildfires, mainly caused by _drought_ and _extreme heat_, are a co
 
 This is the [picture](https://s.abcnews.com/images/International/twip-01-kangaroo-fires-ps-200102_hpMain_1_16x9_992.jpg) of a kangaroo
 ![animals](https://s.abcnews.com/images/International/twip-01-kangaroo-fires-ps-200102_hpMain_1_16x9_992.jpg)
+
+* Fire detection [map](https://www.bbc.com/news/world-australia-50951043)
+* Some fire were started [deliberately](https://www.bbc.com/news/world-australia-50400851)
+* The [brands](https://www.refinery29.com/en-us/2020/01/9180463/australia-fires-fashion-brands-donating) that donate to the Australian wildfires
